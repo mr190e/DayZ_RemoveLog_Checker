@@ -1,0 +1,21 @@
+{
+  "token": "Discord-Bot-Token",
+  "channelId": "Channel-ID-for-Commands-and-alerts",
+  "WatchStorageType_Channel": "Channel-ID-to forward-certain-crate-types",
+  "logFile": "C:/path/2/server/profiles/DayZServer_x64.ADM",
+  "maxDistance": 3.8,
+  "roleId": "roleID allowed to set-distance",
+  "storageTypes": ["Elysium Industries Tier 1 Crate", "Elysium Industries Tier 2 Crate", "Elysium Industries Tier 3 Crate", "Elysium Industries Tier 4 Crate", "Elysium Industries Bunker Crate", "Elysium Industries Weapon Supply Crate", "Elysium Industries Tisy Crate", "Military Airdrop", "Basebuilding Airdrop"],
+  "storageTypeColors": {
+	  "Elysium Industries Tier 1 Crate": "BLUE",
+	  "Elysium Industries Tier 2 Crate": "PURPLE",
+	  "Elysium Industries Tier 3 Crate": "GREEN",
+	  "Elysium Industries Tier 4 Crate": "ORANGE",
+	  "Elysium Industries Bunker Crate": "RED",
+	  "Elysium Industries Weapon Supply Crate": "RED",
+	  "Elysium Industries Tisy Crate": "RED",
+	  "Military Airdrop": "YELLOW",
+	  "Basebuilding Airdrop": "YELLOW"
+	}
+}
+
